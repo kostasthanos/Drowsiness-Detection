@@ -102,6 +102,8 @@ As in blink detection, we are going to set a *lar* threshold. Here it means that
 </p>
 This plot is way different that the one on *ear* threshold values per frame. Here there are 4 different time periods (frame periods) with different situations. These situations are :
 
+$\text{S}1(N) = \sum{p=1}^N \text{E}(p)$
+
 1. Lips closed
 2. Speaking
 3. Yawning
