@@ -123,7 +123,7 @@ if total_yawns > 2 or total_blinks > 3:
 ```
 
 ### Note
-* To view the full code with extra comments see *drowsiness_detection.py*.  
+* To view the full code with extra comments see [*drowsiness_detection.py*](https://github.com/kostasthanos/Drowsiness-Detection/blob/main/drowsiness_detection.py).  
 * For a more detailed explanation of this project see *drowsiness_detection.pdf*.
 
 ## Author
