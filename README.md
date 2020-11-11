@@ -93,10 +93,6 @@ We will define a function similar to the eyes' function, in order to calculate *
 </p>
 Now we can calculate the vertical distance between points L<sub>3</sub> and L<sub>7</sub> (*dist1*) and the horiontal distance between points L<sub>1</sub> and L<sub>5</sub> (*dist2*). So the L.A.R. (from now on **lar**) is defined as :
 
-\begin{equation}
-lar = \frac{dist1}{dist2}
-\end{equation}
-
 ```python
 lar = dist1/dist2
 ```
