@@ -53,9 +53,9 @@ Let's enumerate the facial landmarks of a single eye with points P1 to P6 as sho
 <img width="200" height="100" src="Images/eyes3.png ">
 </p>
 We will calculate the two vertical distances between points P<sub>2</sub> - P<sub>6</sub> (*dist1*) and P<sub>3</sub> - P<sub>5</sub> (*dist2*), and the horiontal (largest) distance between points P<sub>1</sub> - P<sub>4</sub> (*dist3*). So the E.A.R. (from now on **ear**) is defined as : 
-\begin{equation}
-ear = \frac{(dist1 + dist2)}{2\cdot dist3}
-\end{equation}
+```
+ear = (dist1 + dist2)/2dist3
+```
 
 
 The above explanation and calculation is referring to only one eye. In order to use both eyes' *ear*, we can find the average eye aspect ratio from the two eyes (left and right).
@@ -91,9 +91,9 @@ We will define a function similar to the eyes' function, in order to calculate *
 <img width="200" height="120" src="Images/lips3.png ">
 </p>
 Now we can calculate the vertical distance between points L<sub>3</sub> and L<sub>7</sub> (*dist1*) and the horiontal distance between points L<sub>1</sub> and L<sub>5</sub> (*dist2*). So the L.A.R. (from now on **lar**) is defined as :
-\begin{equation}
-lar = \frac{dist1}{dist2}
-\end{equation}
+```
+lar = dist1/dist2
+```
 
 ### Is it yawn or not ?
 As in blink detection, we are going to set a *lar* threshold. Here it means that if the current value is greater than the threshold then it is a yawn. 
@@ -101,8 +101,6 @@ As in blink detection, we are going to set a *lar* threshold. Here it means that
 <img width="600" height="350" src="Images/lar_per_frame.png ">
 </p>
 This plot is way different that the one on *ear* threshold values per frame. Here there are 4 different time periods (frame periods) with different situations. These situations are :
-
-$\text{S}1(N) = \sum{p=1}^N \text{E}(p)$
 
 1. Lips closed
 2. Speaking
