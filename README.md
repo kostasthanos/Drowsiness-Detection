@@ -1,6 +1,6 @@
 # Drowsiness-Detection
 Real time drowsiness detection (blinks or yawns) with OpenCV using facial landmarks
-* For a more detailed explanation of this project (more details and theory) read [*drowsiness_detection.pdf*]{https://github.com/kostasthanos/Drowsiness-Detection/blob/main/drowsiness_detection.pdf}.
+* For a more detailed explanation of this project (more details and theory) read [*drowsiness_detection.pdf*](https://github.com/kostasthanos/Drowsiness-Detection/blob/main/drowsiness_detection.pdf).
 
 ## Main Idea
 The main idea of this project is to detect drowsiness. In other words we are trying to detect eye blinks or yawns and decide about drowsiness. 
@@ -124,7 +124,7 @@ if total_yawns > 2 or total_blinks > 3:
 
 ### Note
 * To view the full code with extra comments see [*drowsiness_detection.py*](https://github.com/kostasthanos/Drowsiness-Detection/blob/main/drowsiness_detection.py).  
-* For a more detailed explanation of this project see *drowsiness_detection.pdf*.
+* For a more detailed explanation of this project see [*drowsiness_detection.pdf*](https://github.com/kostasthanos/Drowsiness-Detection/blob/main/drowsiness_detection.pdf).
 
 ## Author
 * **Konstantinos Thanos**
