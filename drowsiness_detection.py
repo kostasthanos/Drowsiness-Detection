@@ -1,3 +1,11 @@
+#===========================#
+#    Drowsiness Detection   #
+#   with Python and OpenCV  #
+#===========================#
+#    Konstantinos Thanos    #
+#    Mathematician, Msc     #
+#===========================#
+
 # Import packages
 from scipy.spatial import distance as dist
 import numpy as np
