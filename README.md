@@ -107,7 +107,7 @@ This plot is way different than the one on ear threshold values per frame. Here 
 1. Lips closed
 2. Speaking
 3. Yawning
-4. Laughing
+4. Smiling
 
 As a result I will set my *lar* threshold value to 0.5 at the beggining of our code.
 ```python
