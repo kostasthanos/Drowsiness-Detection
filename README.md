@@ -52,7 +52,7 @@ Let's enumerate the facial landmarks of a single eye with points P1 to P6 as sho
 <p align="center">
 <img width="200" height="100" src="Images/eyes3.png ">
 </p>
-We will calculate the two vertical distances between points P<sub>2</sub> - P<sub>6</sub> *dist1* and P<sub>3</sub> - P<sub>5</sub> (*dist2*), and the horiontal (largest) distance between points P<sub>1</sub> - P<sub>4</sub> (*dist3*). So the E.A.R. (from now on **ear**) is defined as : 
+We will calculate the two vertical distances between points P<sub>2</sub> - P<sub>6</sub> (dist1) and P<sub>3</sub> - P<sub>5</sub> (dist2), and the horiontal (largest) distance between points P<sub>1</sub> - P<sub>4</sub> (dist3). So the E.A.R. (from now on **ear**) is defined as : 
 
 ```python
 ear = (dist1 + dist2)/2dist3
