@@ -91,7 +91,7 @@ We will define a function similar to the eyes' function, in order to calculate *
 <p align="center">
 <img width="200" height="120" src="Images/lips3.png ">
 </p>
-Now we can calculate the vertical distance between points L<sub>3</sub> and L<sub>7</sub> (*dist1*) and the horiontal distance between points L<sub>1</sub> and L<sub>5</sub> (*dist2*). So the L.A.R. (from now on **lar**) is defined as :
+Now we can calculate the vertical distance between points L<sub>3</sub> and L<sub>7</sub> (dist1) and the horiontal distance between points L<sub>1</sub> and L<sub>5</sub> (dist2). So the L.A.R. (from now on lar) is defined as :
 
 ```python
 lar = dist1/dist2
