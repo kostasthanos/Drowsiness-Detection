@@ -102,7 +102,7 @@ As in blink detection, we are going to set a *lar* threshold. Here it means that
 <p align="center">
 <img width="600" height="350" src="Images/lar_per_frame.png ">
 </p>
-This plot is way different that the one on *ear* threshold values per frame. Here there are 4 different time periods (frame periods) with different situations. These situations are :
+This plot is way different than the one on ear threshold values per frame. Here there are 4 different time periods (frame periods) with different situations. These situations are :
 
 1. Lips closed
 2. Speaking
