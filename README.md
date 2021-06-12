@@ -1,6 +1,6 @@
 # Drowsiness-Detection
 Real time drowsiness detection (blinks or yawns) with OpenCV using facial landmarks.
-* For a more detailed explanation of this project (more details and theory) read [*drowsiness_detection.pdf*](https://github.com/kostasthanos/Drowsiness-Detection/blob/main/drowsiness_detection.pdf). You are free to use this file, just leave a reference to it's url-link «https://github.com/kostasthanos/Drowsiness-Detection/blob/main/drowsiness_detection.pdf»
+* For a more detailed explanation of this project (more details and theory) read [*drowsiness_detection.pdf*](https://github.com/kostasthanos/Drowsiness-Detection/blob/main/drowsiness_detection.pdf). You are free to use this file, just leave a reference to it's url-link « https://github.com/kostasthanos/Drowsiness-Detection/blob/main/drowsiness_detection.pdf »
 
 <p align="center">
   <img width="290" height="260" src="Images/drowsiness.png">
