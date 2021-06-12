@@ -3,7 +3,7 @@ Real time drowsiness detection (blinks or yawns) with OpenCV using facial landma
 * For a more detailed explanation of this project (more details and theory) read [*drowsiness_detection.pdf*](https://github.com/kostasthanos/Drowsiness-Detection/blob/main/drowsiness_detection.pdf).
 
 <p align="center">
-  <img width="300" height="220" src="Images/drowsiness.png">
+  <img width="300" height="260" src="Images/drowsiness.png">
 </p>
 
 ## Main Idea
