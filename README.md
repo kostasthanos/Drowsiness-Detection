@@ -2,6 +2,10 @@
 Real time drowsiness detection (blinks or yawns) with OpenCV using facial landmarks.
 * For a more detailed explanation of this project (more details and theory) read [*drowsiness_detection.pdf*](https://github.com/kostasthanos/Drowsiness-Detection/blob/main/drowsiness_detection.pdf).
 
+<p align="center">
+  <img width="350" height="220" src="Images/drowsiness.png">
+</p>
+
 ## Main Idea
 The main idea of this project is to detect drowsiness. In other words we are trying to detect eye blinks or yawns and decide about drowsiness. 
 We will use **dlib** library for detecting faces and predicting the facial landmarks of a person.
